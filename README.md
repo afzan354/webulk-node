@@ -81,6 +81,4 @@ nama-folder/
 
 ---
 
-Jika kamu ingin tambahan fitur seperti log ke file, delay antar pesan, atau UI, kamu bisa menambahkannya nanti. 😊
 
-Semoga bermanfaat dan mudah dipahami oleh siapa pun yang ingin menggunakan proyekmu!
